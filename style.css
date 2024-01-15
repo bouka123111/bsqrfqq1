@@ -49,7 +49,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(imagesbackgroun.jpeg) no-repeat;
+    background: url() no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -106,7 +106,7 @@ section {
 }
 
 .social-icons a {
-    color: #fff;
+    color: #555555;
     font-size: 1.7em;
     padding-right: 30px;
 }
@@ -128,7 +128,7 @@ section {
 }
 
 .card {
-    background-color: #fff;
+    background-color: #555555;
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
     border-radius: 10px;
@@ -167,8 +167,8 @@ section {
 }
 
 .project-card {
-    background-color: #fff;
-    border: 1px solid #fff;
+    background-color: #555555;
+    border: 1px solid #555555;
     min-height: 14em;
     width: 23em;
     overflow: hidden;
@@ -220,7 +220,7 @@ section {
 }
 
 .contact .info h3 {
-    color: #000;
+    color: #0a0a0a;
 }
 
 .contact .info p {
@@ -228,8 +228,8 @@ section {
 }
 
 .footer {
-    background-color: #000016;
-    color: #fff;
+    background-color: #000;
+    color: #ffffff;
     padding: 2em;
     display: flex;
     justify-content: space-between;
